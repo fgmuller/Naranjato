@@ -158,7 +158,7 @@ function rotarSapy() {
  document.getElementById(
    "imagenSapy")
   .src =
-  'https://static.wixstatic.com/media/cc320b_8a776b6c4c1b4432be63a3329f9900db~mv2.gif';
+  'https://static.wixstatic.com/media/cc320b_f732b23aeb3041c5bc930ff84edb145f~mv2.gif';
 
 } //
 
