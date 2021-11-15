@@ -1,3 +1,0 @@
-# Naranjato
-
-Trabajo de Psicologia
