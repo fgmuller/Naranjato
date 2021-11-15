@@ -1,3 +1,0 @@
-# Naranjato
-
-Super commit trabajando
