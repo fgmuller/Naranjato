@@ -171,7 +171,7 @@ function iniciarSapy() {
 
 
  // Indicamos que cada 5 segundos cambie la imagen
- setInterval(rotarSapy, 29000);
+ setInterval(rotarSapy, 120000);
 
  accionPlaySapy();
 
